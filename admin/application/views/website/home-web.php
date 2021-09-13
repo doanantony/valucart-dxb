@@ -41,7 +41,7 @@
             </li>
             </li>
             <li>
-              <a href="privacy-policy.html">PRIVACY POLICY</a>
+              <a href="<?php echo base_url(); ?>PrivacyPolicy">PRIVACY POLICY</a>
             </li>
             <li>
               <a href="contact.html">CONTACT US</a>
@@ -188,17 +188,12 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-md-6 me-auto text-center text-md-start mb-5 mb-md-0">
-              <h2>Download our Apps from</h2>
+              <h2>Are you a Supplier ? Come work with us!</h2>
             </div>
             <div class="col-md-5 text-center text-md-end">
               <p>
                 <a href="#" class="btn d-inline-flex align-items-center">
-                  <i class="bx bxl-apple"></i>
-                  <span>App store</span>
-                </a>
-                <a href="#" class="btn d-inline-flex align-items-center">
-                  <i class="bx bxl-play-store"></i>
-                  <span>Google play</span>
+                  <span>REGISTER NOW</span>
                 </a>
               </p>
             </div>
