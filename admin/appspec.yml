@@ -1,0 +1,23 @@
+version: 0.0
+os: linux
+
+files:
+  - source: /
+    destination: /var/www/html
+
+hooks:
+
+  BeforeInstall:
+    - location: before_install.sh
+  
+  AfterInstall:
+  #  - location: deployment_scripts/after_install.sh
+  
+  # Stop the application
+  #ApplicationStop:
+  #  - location: scripts/code_deploy/stop.sh
+  
+  # Start the application
+  ApplicationStart:
+    # - location: deployment_scripts/start.sh
+      #timeout: 3600

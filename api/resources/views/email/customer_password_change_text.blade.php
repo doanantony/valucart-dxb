@@ -1,0 +1,1 @@
+Hi, you password has been changed. If you are not the one who changed your password please report this to customer-service@valucart.com.

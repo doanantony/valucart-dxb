@@ -1,0 +1,1 @@
+Hi {{ $customer->name }}, use code: {{ $code }}, to recover you valucart account.

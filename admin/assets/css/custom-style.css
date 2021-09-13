@@ -1,0 +1,23 @@
+.navbar-nav > .user-menu > .dropdown-menu > li.user-header {
+	height:50px !important;
+}
+
+.dropdown-toggle {
+    background: rgba(0, 0, 0, 0.1) none repeat scroll 0 0;
+}
+.modal-wide .modal-dialog {
+	width:80% !important;
+}
+
+.modal-wides .modal-dialog {
+	width:40% !important;
+}
+.modal-content .box {
+	border-left:1px solid #f4f4f4;
+}
+
+.select2-selection--multiple .select2-search--inline .select2-search__field {
+	width:1px !important;
+	border:none !important;
+}
+
